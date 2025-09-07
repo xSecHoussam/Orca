@@ -1,7 +1,5 @@
 # Orca
-
-![Orca Logo](https://raw.githubusercontent.com/xSecHoussam/Orca/main/images/orca-esport-logo-mascot-design-vector.jpg)
-<img src="..." width="250" height="250">
+<img src="https://raw.githubusercontent.com/xSecHoussam/Orca/main/images/orca-esport-logo-mascot-design-vector.jpg" width="250" height="250">
 
 # Features :
 
