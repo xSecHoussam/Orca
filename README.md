@@ -1,5 +1,5 @@
 # Orca
-<img src="https://raw.githubusercontent.com/xSecHoussam/Orca/main/images/orca-esport-logo-mascot-design-vector.jpg" width="500" height="350">
+<img src="https://raw.githubusercontent.com/xSecHoussam/Orca/main/images/orca-esport-logo-mascot-design-vector.jpg" width="700" height="300">
 
 # Features :
 
