@@ -14,17 +14,30 @@
 
 [+] Vulnerability Scanning :
 
-  - XSS ( Reflected & Dom & Stored ) 
-  - Html injection
-  - SSTI
-  - XXE
-  - Open Redirect
-  - LFI
-  - SSRF
-  - OS Command injection
-  - information disclosure
-  - dependency confustion
+- injection :
+                - XSS ( Reflected & Dom & Stored ) 
+                - Html injection
+                - SSTI
+                - XXE
+                - OS Command injection
+                - LDAP injection
+                - SQL injection
+                - Xpath injection
+                - CRLF injection
+                - Server Side Include inection
 
+- Misconfiguration :
+                - Subdomain Tekover
+                - Directory listing
+                - cache poisoning
+                - information disclosure
+                - Http Requests Smuglling
+                - dependency confustion
+                - Cloud misconfigurations (aws , azure ..etc)
+- Other :
+          - SSRF
+          - RCE
+          
 [+] Optional :
   - Analysis & check comment ( html , js ) .
   - Fetch & Analysis Hidden input & Password ..etc 
